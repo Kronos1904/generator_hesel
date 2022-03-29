@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "generator_hesel", "generator_hesel\generator_hesel.csproj", "{CD7ACABB-221B-4094-BD5D-76E803D3D3F3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD7ACABB-221B-4094-BD5D-76E803D3D3F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD7ACABB-221B-4094-BD5D-76E803D3D3F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD7ACABB-221B-4094-BD5D-76E803D3D3F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD7ACABB-221B-4094-BD5D-76E803D3D3F3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD370D5E-0274-47BF-9062-D4D686A4C5C9}
+	EndGlobalSection
+EndGlobal
